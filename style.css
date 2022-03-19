@@ -1,12 +1,16 @@
 .jumbotron {
-  padding-top: 6rem;
   background-color: gray;
 }
 
 #Jurusan {
   background-color: grey;
+  padding-bottom: 5rem;
 }
 
-section {
-  padding-top: 5rem;
+#Contact {
+  padding-bottom: 8rem;
+}
+
+#About {
+  padding-bottom: 6rem;
 }
